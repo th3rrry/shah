@@ -791,22 +791,7 @@ body, html, .container, .header, .footer {
     margin-left: 4px;
 }
 
-.clear-cooldown-btn {
-    margin-top: 12px;
-    padding: 8px 16px;
-    background: rgba(239, 68, 68, 0.2);
-    border: 1px solid rgba(239, 68, 68, 0.5);
-    border-radius: 6px;
-    color: #fca5a5;
-    font-size: 12px;
-    cursor: pointer;
-    transition: all 0.2s;
-}
 
-.clear-cooldown-btn:hover {
-    background: rgba(239, 68, 68, 0.3);
-    color: #ef4444;
-}
 
 /* Button styles */
 .btn {
